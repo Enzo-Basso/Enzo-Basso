@@ -4,7 +4,7 @@ Olá! Eu sou Enzo Basso Martins 👋
 Tenho interesse em programação e desenvolvimento de software. Atualmente, estudo tecnologias voltadas ao desenvolvimento web, mobile e à criação de sistemas. Também exploro programação de hardware e microcontroladores por conta própria.
 
 🛠️ Tecnologias e ferramentas
-- Linguagens: C#, C e SQL
+- Linguagens: C#, C, JavaScript e SQL
 - Desenvolvimento web: React
 - Desenvolvimento mobile: React Native
 - Hardware e sistemas embarcados: ESP32
